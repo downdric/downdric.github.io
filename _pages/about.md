@@ -55,8 +55,8 @@ My research interests include computer vision and deep learning, especially focu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='../images/OLDL.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Ordinal Label Distribution Learning]
-(https://openaccess.thecvf.com/content/ICCV2023/papers/Wen_Ordinal_Label_Distribution_Learning_ICCV_2023_paper.pdf)
+[Ordinal Label Distribution Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Wen_Ordinal_Label_Distribution_Learning_ICCV_2023_paper.pdf)
+
 **Changsong Wen**, Xin Zhang, Xingxu Yao, Jufeng Yang
 
 [**Project**](https://downdric23.github.io/) 
