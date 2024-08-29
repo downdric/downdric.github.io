@@ -19,11 +19,11 @@ redirect_from:
 
 I’m a first-year PhD student from the School of Computer Science, Shanghai Jiaotong University. I received my Master's degree from Nankai University and my Bachelor's degree from Xidian University in 2017 and 2021, respectively. I am very fortunate to be advised by Prof. [**Wei Shen**](https://shenwei1231.github.io/).
 
-My research interests lie in the fields of computer vision and deep learning, with a particular focus on image-text multi-modal learning, semantic segmentation, and label distribution learning. Please feel free to contact me through email: changsong@sjtu.edu.cn.
+My research interests lie in the fields of computer vision and deep learning, with a particular focus on image-text multi-modal learning, semantic segmentation, and label distribution learning. I am driven by the challenge of creating models that can understand and generate meaningful representations from complex, multi-modal scenes. Please feel free to contact me through email: changsong@sjtu.edu.cn.
 
 
 # 🎖 Honors and Awards
-- *2023.10* National Scholarship of Nankai University.
+- *2023.10* National Scholarship.
 - *2022.11* Gongneng Scholarship of Nankai University.
 - *2021.11* Recommended Scholarship of Nankai University.
 - *2021.07* Outstanding Graduates Awards. 
@@ -32,7 +32,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
 
 # 📖 Educations
 - *2024.09 - 2028.06 (now)*, PhD student of Shanghai Jiaotong University. 
-- *2021.09 - 2024.06 *, Master student of Nankai University. 
+- *2021.09 - 2024.06*, Master student of Nankai University. 
 - *2017.09 - 2021.07*, Undergraduate students of Xidian University.
 
 # 🔥 News
