@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a second-year Master student from the School of Computer Science, Nankai University. I received my Master's degree at Xidian University in 2021. I am very fortunate to be advised by Prof. [**Jufeng Yang**](https://cv.nankai.edu.cn/) of Computer Vision Lab.
+I’m a first-year PhD student from the School of Computer Science, Shanghai Jiaotong University. I received my Master's and Bachelor's degrees at Nankai and Xidian Universities in 2017 and 2021, respectively. I am very fortunate to be advised by Prof. [**Wei Shen**](https://shenwei1231.github.io/).
 
 My research interests include computer vision and deep learning, especially focusing on image-text multi-modal learning, semantic segmentation, and label distribution learning. Please feel free to contact me through email: downdric@163.com.
 
@@ -31,7 +31,8 @@ My research interests include computer vision and deep learning, especially focu
 
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, Master student of Nankai University. 
+- *2024.09 - 2028.06 (now)*, PhD student of Shanghai Jiaotong University. 
+- *2021.09 - 2024.06 *, Master student of Nankai University. 
 - *2017.09 - 2021.07*, Undergraduate students of Xidian University.
 
 # 🔥 News
