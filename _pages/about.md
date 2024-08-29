@@ -33,7 +33,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
 # 📖 Educations
 - *2024.09 - 2028.06 (now)*, PhD student of Shanghai Jiaotong University. 
 - *2021.09 - 2024.06*, Master student of Nankai University. 
-- *2017.09 - 2021.07*, Undergraduate students of Xidian University.
+- *2017.09 - 2021.07*, Undergraduate student of Xidian University.
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 One paper is accapted by ICCV 2023. 
