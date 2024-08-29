@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Changsong Wen (文长崧)"
-  avatar           : "images/photo.jpg"
+  avatar           : "self_photo.jpg"
   bio              : "Shanghai Jiaotong University"
   location         : "Shanghai, China"
   employer         :
