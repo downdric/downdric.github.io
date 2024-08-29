@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a first-year PhD student from the School of Computer Science, Shanghai Jiaotong University. I received my Master's and Bachelor's degrees at Nankai and Xidian Universities in 2017 and 2021, respectively. I am very fortunate to be advised by Prof. [**Wei Shen**](https://shenwei1231.github.io/).
+I’m a first-year PhD student from the School of Computer Science, Shanghai Jiaotong University. I received my Master's degree from Nankai University and my Bachelor's degree from Xidian University in 2017 and 2021, respectively. I am very fortunate to be advised by Prof. [**Wei Shen**](https://shenwei1231.github.io/).
 
-My research interests include computer vision and deep learning, especially focusing on image-text multi-modal learning, semantic segmentation, and label distribution learning. Please feel free to contact me through email: downdric@163.com.
+My research interests lie in the fields of computer vision and deep learning, with a particular focus on image-text multi-modal learning, semantic segmentation, and label distribution learning. Please feel free to contact me through email: changsong@sjtu.edu.cn.
 
 
 # 🎖 Honors and Awards
