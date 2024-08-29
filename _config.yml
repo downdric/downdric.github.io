@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Changsong Wen (文长崧)"
   avatar           : "images/photo.jpg"
-  bio              : "Nankai University"
-  location         : "Tianjin, China"
+  bio              : "Shanghai Jiaotong University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "downdric@163.com"
+  email            : "changsong@sjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
