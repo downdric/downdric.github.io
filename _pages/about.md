@@ -56,7 +56,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
   
 [Retaining Knowledge and Enhancing Long-Text Representations in CLIP through Dual-Teacher Distillation]
 
-Yuheng Feng^*, **Changsong Wen**^*, Zelin Peng, Li jiaye, Siyu Zhu
+Yuheng Feng<sup>*</sup>, **Changsong Wen**<sup>*</sup>, Zelin Peng, Li jiaye, Siyu Zhu
 </div>
 </div>
 
@@ -88,7 +88,7 @@ Zelin Peng, Zhengqin Xu, Zhilin Zeng, **Changsong Wen**, Yu Huang, Menglin Yang,
   
 [DIP: Dual Incongruity Perceiving Network for Sarcasm Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_DIP_Dual_Incongruity_Perceiving_Network_for_Sarcasm_Detection_CVPR_2023_paper.pdf)
 
-**Changsong Wen**^*, Guoli Jia^*, Jufeng Yang 
+**Changsong Wen**<sup>*</sup>, Guoli Jia<sup>*</sup>, Jufeng Yang 
 </div>
 </div>
 
