@@ -56,7 +56,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
   
 [Retaining Knowledge and Enhancing Long-Text Representations in CLIP through Dual-Teacher Distillation]
 
-Yuheng Feng, **Changsong Wen**, Zelin Peng, Li jiaye, Siyu Zhu
+Yuheng Feng^*, **Changsong Wen**^*, Zelin Peng, Li jiaye, Siyu Zhu
 </div>
 </div>
 
@@ -73,17 +73,6 @@ Zelin Peng, Zhengqin Xu, Zhilin Zeng, **Changsong Wen**, Yu Huang, Menglin Yang,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/Sarcasm.PNG' alt="sym" width="300px" height="200px"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[DIP: Dual Incongruity Perceiving Network for Sarcasm Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_DIP_Dual_Incongruity_Perceiving_Network_for_Sarcasm_Detection_CVPR_2023_paper.pdf)
-
-**Changsong Wen**, Guoli Jia, Jufeng Yang 
-</div>
-</div>
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='../images/OLDL.PNG' alt="sym" width="300px" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -92,3 +81,14 @@ Zelin Peng, Zhengqin Xu, Zhilin Zeng, **Changsong Wen**, Yu Huang, Menglin Yang,
 **Changsong Wen**, Xin Zhang, Xingxu Yao, Jufeng Yang
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/Sarcasm.PNG' alt="sym" width="300px" height="200px"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[DIP: Dual Incongruity Perceiving Network for Sarcasm Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_DIP_Dual_Incongruity_Perceiving_Network_for_Sarcasm_Detection_CVPR_2023_paper.pdf)
+
+**Changsong Wen**^*, Guoli Jia^*, Jufeng Yang 
+</div>
+</div>
+
