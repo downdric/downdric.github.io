@@ -43,11 +43,12 @@ My research interests lie in the fields of computer vision and deep learning, wi
 # 📝 Publications 
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image'> <div>
     <div class="badge">CVPR 2023</div>
     <img src='../images/Sarcasm.PNG' alt="sym" width="300px" height="200px">
   </div>
 <div class='paper-box-text' markdown="1">
+  
 [DIP: Dual Incongruity Perceiving Network for Sarcasm Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_DIP_Dual_Incongruity_Perceiving_Network_for_Sarcasm_Detection_CVPR_2023_paper.pdf)
 
 **Changsong Wen**, Guoli Jia, Jufeng Yang 
