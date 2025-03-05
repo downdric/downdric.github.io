@@ -40,11 +40,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
 
 # 📝 Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'> <div>
-    <div class="badge">CVPR 2025</div>
-    <img src='../images/DG.PNG' alt="sym" width="300px" height="200px">
-  </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/DG.PNG' alt="sym" width="300px" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Domain Generalization in CLIP via Learning with Diverse Text Prompts]
@@ -55,11 +51,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
 
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'> <div>
-    <div class="badge">CVPR 2025</div>
-    <img src='../images/long-clip.PNG' alt="sym" width="300px" height="200px">
-  </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/long-clip.PNG' alt="sym" width="300px" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Retaining Knowledge and Enhancing Long-Text Representations in CLIP through Dual-Teacher Distillation]
@@ -70,11 +62,7 @@ Yuheng Feng, **Changsong Wen**, Zelin Peng, Li jiaye, Siyu Zhu
 
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'> <div>
-    <div class="badge">CVPR 2025</div>
-    <img src='../images/hyperbolic.PNG' alt="sym" width="300px" height="200px">
-  </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/hyperbolic.PNG' alt="sym" width="300px" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space]
@@ -85,11 +73,7 @@ Zelin Peng, Zhengqin Xu, Zhilin Zeng, **Changsong Wen**, Yu Huang, Menglin Yang,
 
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'> <div>
-    <div class="badge">CVPR 2023</div>
-    <img src='../images/Sarcasm.PNG' alt="sym" width="300px" height="200px">
-  </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/Sarcasm.PNG' alt="sym" width="300px" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [DIP: Dual Incongruity Perceiving Network for Sarcasm Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_DIP_Dual_Incongruity_Perceiving_Network_for_Sarcasm_Detection_CVPR_2023_paper.pdf)
