@@ -27,9 +27,9 @@ My research interests lie in the fields of computer vision and deep learning, wi
 - *2017.09 - 2021.07*, Undergraduate student of Xidian University.
 
   # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 three paper are accapted by CVPR 2025.
-- *2023.07*: &nbsp;🎉🎉 One paper is accapted by ICCV 2023. 
-- *2023.03*: &nbsp;🎉🎉 One paper is accapted by CVPR 2023. 
+- *2025.02*: &nbsp;🎉🎉 three paper are accepted by CVPR 2025.
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted by ICCV 2023. 
+- *2023.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2023. 
 
   # 🎖 Honors and Awards
 - *2023.10* National Scholarship.
