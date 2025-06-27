@@ -45,6 +45,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
 <div class='paper-box-text' markdown="1">
   
 [Tackling View-Dependent Semantics in 3D Language Gaussian Splatting](https://openreview.net/pdf?id=oaMDLJezM4)
+
 Jiazhong Cen, Xudong Zhou, Jiemin Fang, **Changsong Wen**, Lingxi Xie, Xiaopeng Zhang, Wei Shen, Qi Tian
 </div>
 </div>
