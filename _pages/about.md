@@ -41,7 +41,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/3DGS.png' alt="sym" width="300px" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/3DGS.png' alt="sym" width="300px" height="180px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Tackling View-Dependent Semantics in 3D Language Gaussian Splatting](https://openreview.net/pdf?id=oaMDLJezM4)
@@ -50,7 +50,7 @@ Jiazhong Cen, Xudong Zhou, Jiemin Fang, **Changsong Wen**, Lingxi Xie, Xiaopeng 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/DG.PNG' alt="sym" width="300px" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/DG.PNG' alt="sym" width="300px" height="180px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Domain Generalization in CLIP via Learning with Diverse Text Prompts](https://openaccess.thecvf.com/content/CVPR2025/papers/Wen_Domain_Generalization_in_CLIP_via_Learning_with_Diverse_Text_Prompts_CVPR_2025_paper.pdf)
@@ -61,7 +61,7 @@ Jiazhong Cen, Xudong Zhou, Jiemin Fang, **Changsong Wen**, Lingxi Xie, Xiaopeng 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/long-clip.PNG' alt="sym" width="300px" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/long-clip.PNG' alt="sym" width="300px" height="180px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Retaining Knowledge and Enhancing Long-Text Representations in CLIP through Dual-Teacher Distillation](https://openaccess.thecvf.com/content/CVPR2025/papers/Feng_Retaining_Knowledge_and_Enhancing_Long-Text_Representations_in_CLIP_through_Dual-Teacher_CVPR_2025_paper.pdf)
@@ -72,7 +72,7 @@ Yuheng Feng<sup>*</sup>, **Changsong Wen**<sup>*</sup>, Zelin Peng, Li jiaye, Si
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/hyperbolic.PNG' alt="sym" width="300px" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/hyperbolic.PNG' alt="sym" width="300px" height="180px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_Understanding_Fine-tuning_CLIP_for_Open-vocabulary_Semantic_Segmentation_in_Hyperbolic_Space_CVPR_2025_paper.pdf)
@@ -83,7 +83,7 @@ Zelin Peng, Zhengqin Xu, Zhilin Zeng, **Changsong Wen**, Yu Huang, Menglin Yang,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='../images/OLDL.PNG' alt="sym" width="300px" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='../images/OLDL.PNG' alt="sym" width="300px" height="180px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ordinal Label Distribution Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Wen_Ordinal_Label_Distribution_Learning_ICCV_2023_paper.pdf)
@@ -93,7 +93,7 @@ Zelin Peng, Zhengqin Xu, Zhilin Zeng, **Changsong Wen**, Yu Huang, Menglin Yang,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/Sarcasm.PNG' alt="sym" width="300px" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='../images/Sarcasm.PNG' alt="sym" width="300px" height="180px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [DIP: Dual Incongruity Perceiving Network for Sarcasm Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_DIP_Dual_Incongruity_Perceiving_Network_for_Sarcasm_Detection_CVPR_2023_paper.pdf)
