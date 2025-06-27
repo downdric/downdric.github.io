@@ -41,6 +41,14 @@ My research interests lie in the fields of computer vision and deep learning, wi
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/3DGS.PNG' alt="sym" width="300px" height="200px"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Tackling View-Dependent Semantics in 3D Language Gaussian Splatting](https://openreview.net/pdf?id=oaMDLJezM4)
+Jiazhong Cen, Xudong Zhou, Jiemin Fang, **Changsong Wen**, Lingxi Xie, Xiaopeng Zhang, Wei Shen, Qi Tian
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/DG.PNG' alt="sym" width="300px" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
   
