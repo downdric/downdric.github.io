@@ -45,6 +45,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
 <div class='paper-box-text' markdown="1">
   
 [Domain Generalization in CLIP via Learning with Diverse Text Prompts]
+(https://openaccess.thecvf.com/content/CVPR2025/papers/Wen_Domain_Generalization_in_CLIP_via_Learning_with_Diverse_Text_Prompts_CVPR_2025_paper.pdf)
 
 **Changsong Wen**, Zelin Peng, Yu Huang, Xiaokang Yang, Wei Shen
 </div>
@@ -56,6 +57,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
 <div class='paper-box-text' markdown="1">
   
 [Retaining Knowledge and Enhancing Long-Text Representations in CLIP through Dual-Teacher Distillation]
+(https://openaccess.thecvf.com/content/CVPR2025/papers/Feng_Retaining_Knowledge_and_Enhancing_Long-Text_Representations_in_CLIP_through_Dual-Teacher_CVPR_2025_paper.pdf)
 
 Yuheng Feng<sup>*</sup>, **Changsong Wen**<sup>*</sup>, Zelin Peng, Li jiaye, Siyu Zhu
 </div>
@@ -67,6 +69,7 @@ Yuheng Feng<sup>*</sup>, **Changsong Wen**<sup>*</sup>, Zelin Peng, Li jiaye, Si
 <div class='paper-box-text' markdown="1">
   
 [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space]
+(https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_Understanding_Fine-tuning_CLIP_for_Open-vocabulary_Semantic_Segmentation_in_Hyperbolic_Space_CVPR_2025_paper.pdf)
 
 Zelin Peng, Zhengqin Xu, Zhilin Zeng, **Changsong Wen**, Yu Huang, Menglin Yang, Feilong Tang, Wei Shen
 </div>
