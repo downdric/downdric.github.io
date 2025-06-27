@@ -41,7 +41,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/3DGS.PNG' alt="sym" width="300px" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/3DGS.png' alt="sym" width="300px" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Tackling View-Dependent Semantics in 3D Language Gaussian Splatting](https://openreview.net/pdf?id=oaMDLJezM4)
