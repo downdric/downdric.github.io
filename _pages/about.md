@@ -27,6 +27,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
 - *2017.09 - 2021.07*, Undergraduate student of Xidian University.
 
   # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 one paper is accepted by AAAI 2026.
 - *2025.05*: &nbsp;🎉🎉 one paper is accepted by ICML 2025.
 - *2025.02*: &nbsp;🎉🎉 three paper are accepted by CVPR 2025.
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by ICCV 2023. 
@@ -40,6 +41,14 @@ My research interests lie in the fields of computer vision and deep learning, wi
 - *2020.10* Special Scholarship of Xidian University. 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/TR.png' alt="sym" width="300px" height="180px"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Efficient Segmentation with Multimodal Large Language Model via Token Routing
+
+**Changsong Wen**, Zelin Peng, Yu Huang, Wei Shen
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/3DGS.png' alt="sym" width="300px" height="180px"></div></div>
 <div class='paper-box-text' markdown="1">
