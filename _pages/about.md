@@ -41,7 +41,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
 - *2020.10* Special Scholarship of Xidian University. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/TR.png' alt="sym" width="300px" height="180px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='../images/TR.png' alt="sym" width="300px" height="180px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Efficient Segmentation with Multimodal Large Language Model via Token Routing
