@@ -34,6 +34,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
 - *2023.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2023. 
 
   # 🎖 Honors and Awards
+- *2025.12* Young Elite Scientists Sponsorship Program by CAST (PhD Student Special Plan)
 - *2023.10* National Scholarship.
 - *2022.11* Gongneng Scholarship of Nankai University.
 - *2021.11* Recommended Scholarship of Nankai University.
