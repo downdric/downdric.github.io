@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a second-year PhD student from the School of Computer Science, Shanghai Jiaotong University. I am very fortunate to be advised by Prof. [**Wei Shen**](https://shenwei1231.github.io/). Currently, I am also interning with the LongCat foundation model team at Meituan.
+I’m a second-year PhD student from the School of Computer Science, Shanghai Jiaotong University. I am very fortunate to be advised by Prof. [**Wei Shen**](https://shenwei1231.github.io/). Currently, I am also interning with the [**LongCat**](https://longcat.chat/) model team at Meituan.
 
 My research interests lie in computer vision and deep learning, with a particular focus on visual reasoning in multimodal large models and segmentation. I am driven by the challenge of creating models that can understand and interact with complex, multi-modal scenes. Please feel free to contact me through email: changsong@sjtu.edu.cn.
 
