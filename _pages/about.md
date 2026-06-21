@@ -44,7 +44,7 @@ My research interests lie in computer vision and deep learning, with a particula
 - *2020.10* Special Scholarship of Xidian University. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='../images/LReSeg.png' alt="sym" width="300px" height="180px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='../images/LReSeg.png' alt="sym" width="300px" height="180px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Exploring Efficient Reasoning Segmentation with Small Language Models
