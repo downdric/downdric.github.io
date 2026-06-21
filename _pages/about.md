@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a second-year PhD student from the School of Computer Science, Shanghai Jiaotong University. I received my Master's degree from Nankai University and my Bachelor's degree from Xidian University in 2017 and 2021, respectively. I am very fortunate to be advised by Prof. [**Wei Shen**](https://shenwei1231.github.io/).
+I’m a second-year PhD student from the School of Computer Science, Shanghai Jiaotong University. I received my Master's degree from Nankai University and my Bachelor's degree from Xidian University in 2017 and 2021, respectively. I am very fortunate to be advised by Prof. [**Wei Shen**](https://shenwei1231.github.io/). Currently, I am also interning with the LongCat foundation model team at Meituan.
 
-My research interests lie in the fields of computer vision and deep learning, with a particular focus on multimodal large language models and segmentation. I am driven by the challenge of creating models that can understand and generate meaningful representations from complex, multi-modal scenes. Please feel free to contact me through email: changsong@sjtu.edu.cn.
+My research interests lie in computer vision and deep learning, with a particular focus on visual reasoning in multimodal large models and segmentation. I am driven by the challenge of creating models that can understand and interact with complex, multi-modal scenes. Please feel free to contact me through email: changsong@sjtu.edu.cn.
 
 # 📖 Educations
 - *2024.09 - 2028.06 (now)*, PhD student of Shanghai Jiaotong University. 
@@ -27,6 +27,7 @@ My research interests lie in the fields of computer vision and deep learning, wi
 - *2017.09 - 2021.07*, Undergraduate student of Xidian University.
 
   # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 one papers is accepted by ECCV 2026.  
 - *2026.02*: &nbsp;🎉🎉 one papers is accepted by CVPR 2026.
 - *2025.10*: &nbsp;🎉🎉 one paper is accepted by AAAI 2026.
 - *2025.05*: &nbsp;🎉🎉 one paper is accepted by ICML 2025.
@@ -43,6 +44,24 @@ My research interests lie in the fields of computer vision and deep learning, wi
 - *2020.10* Special Scholarship of Xidian University. 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='../images/LReSeg.png' alt="sym" width="300px" height="180px"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Exploring Efficient Reasoning Segmentation with Small Language Models
+
+**Changsong Wen**, Zelin Peng, Yu Huang, Xiaokang Yang, Wei Shen
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../images/affordance.png' alt="sym" width="300px" height="180px"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge
+
+Yu Huang, Zelin Peng, **Changsong Wen**, Xiaokang Yang, Wei Shen
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='../images/TR.png' alt="sym" width="300px" height="180px"></div></div>
 <div class='paper-box-text' markdown="1">
   
