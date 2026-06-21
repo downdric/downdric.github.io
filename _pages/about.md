@@ -56,7 +56,7 @@ Exploring Efficient Reasoning Segmentation with Small Language Models
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../images/affordance.png' alt="sym" width="300px" height="180px"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge
+[Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Unlocking_3D_Affordance_Segmentation_with_2D_Semantic_Knowledge_CVPR_2026_paper.pdf)
 
 Yu Huang, Zelin Peng, **Changsong Wen**, Xiaokang Yang, Wei Shen
 </div>
@@ -65,7 +65,7 @@ Yu Huang, Zelin Peng, **Changsong Wen**, Xiaokang Yang, Wei Shen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='../images/TR.png' alt="sym" width="300px" height="180px"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Efficient Segmentation with Multimodal Large Language Model via Token Routing
+[Efficient Segmentation with Multimodal Large Language Model via Token Routing](https://ojs.aaai.org/index.php/AAAI/article/download/38032/41994)
 
 **Changsong Wen**, Zelin Peng, Yu Huang, Wei Shen
 </div>
