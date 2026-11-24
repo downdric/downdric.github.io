@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student at the School of Computer Science, Shanghai Jiaotong University. I am very fortunate to be advised by Prof. [**Wei Shen**](https://shenwei1231.github.io/). Currently, I am a TGT (Tech Genius Team) Research Intern at JD Explore Academy, mentored by [**Jiaqi Wang**](https://myownskyw7.github.io/). Previously, I interned with the LongCat team at Meituan.
+I am a third-year Ph.D. student at the School of Computer Science, Shanghai Jiaotong University. I am very fortunate to be advised by Prof. [**Wei Shen**](https://shenwei1231.github.io/). Currently, I am a TGT (Tech Genius Team) Research Intern at JD Explore Academy, mentored by [**Jiaqi Wang**](https://myownskyw7.github.io/). Previously, I interned with the LongCat team at Meituan.
 
 My research interests lie in computer vision and deep learning, with a particular focus on visual reasoning in multimodal large models. I am driven by the challenge of creating models that can understand and interact with complex, multi-modal scenes. Please feel free to contact me through email: changsong@sjtu.edu.cn.
 
@@ -48,7 +48,7 @@ My research interests lie in computer vision and deep learning, with a particula
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPs 2026</div><img src='../images/see.png' alt="sym" width="300px" height="180px"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Exploring Efficient Reasoning Segmentation with Small Language Models
+See to Believe: Aligning Multimodal Chain-of-Thought Reasoning with Visual Evidence
 
 **Changsong Wen**, Yanjie Wang, Zelin Peng, Yu Huang, Xiaokang Yang, Wei Shen
 </div>
