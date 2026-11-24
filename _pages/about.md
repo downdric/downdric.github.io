@@ -27,6 +27,7 @@ My research interests lie in computer vision and deep learning, with a particula
 - *2017.09 - 2021.07*, Undergraduate student of Xidian University.
 
   # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 one papers is accepted by NeurIPs 2026. 
 - *2026.06*: &nbsp;🎉🎉 one papers is accepted by ECCV 2026.  
 - *2026.02*: &nbsp;🎉🎉 one papers is accepted by CVPR 2026.
 - *2025.10*: &nbsp;🎉🎉 one paper is accepted by AAAI 2026.
@@ -44,6 +45,15 @@ My research interests lie in computer vision and deep learning, with a particula
 - *2020.10* Special Scholarship of Xidian University. 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPs 2026</div><img src='../images/see.png' alt="sym" width="300px" height="180px"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Exploring Efficient Reasoning Segmentation with Small Language Models
+
+**Changsong Wen**, Yanjie Wang, Zelin Peng, Yu Huang, Xiaokang Yang, Wei Shen
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='../images/lre.png' alt="sym" width="300px" height="180px"></div></div>
 <div class='paper-box-text' markdown="1">
   
